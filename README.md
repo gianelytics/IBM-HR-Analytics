@@ -2,40 +2,42 @@
   
 ![](/Portada_4.jpg)
   
-Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
+Project carried out at the bootcamp of  [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM
 </div>
 
-## 🎓 Objetivos del proyecto
+❕ [SEE VERSION SPANISH EDITION](https://github.com/gianelytics/Data-analytics-Project-6/blob/495824c4e089726143b8a90c8b24d128b03fab08/README_spanish.md)
 
-- Organizar y manipular datos utilizando SQL.
-- Visualizar datos en una herramienta de Business Intelligence (BI).
-- Comprender el flujo y las etapas del proceso de un análisis.
-- Realizar la limpieza de datos necesaria.
-- Tomar decisiones de negocio basadas en datos.
-- Organizar y comunicar hallazgos
+## 🎓 Project Objectives
 
-## Contexto
+- Organize and manipulate data using SQL.
+- Visualize data in a Business Intelligence (BI) tool.
+- Understand the flow and stages of the analysis process.
+- Perform the necessary data cleaning.
+- Make business decisions based on data.
+- Organize and communicate findings.
 
-Predecir el desgaste de sus valiosos empleados
->El objetivo de este proyecto es descubrir los factores que conducen a la deserción de los empleados y explore preguntas importantes como 'muéstrame un desglose de la distancia desde el hogar por puesto de trabajo y deserción' o 'compara el ingreso mensual promedio por educación y deserción'. 
+## 📌 Context
 
->Este es un conjunto de datos ficticio creado por científicos de datos de IBM.
+Predict the attrition of valuable employees 
+>The goal of this project is to discover the factors that lead to employee attrition and explore important questions such as 'show me a breakdown of distance from home by job title and attrition' or 'compare average monthly income by education and attrition. 
+
+>This is a fictional data set created by IBM data scientists.
 <div align="center">
   
 ![](/Dataset_5.jpg) 
   </div>
 
 
-## Reporte
+## 🔎Report
 
-    Análisis de desgaste y rendimiento de empleados de IBM HR Analytics
+    IBM HR Analytics Employee Attrition & Performance Analysis
 
-<h4 align="left"> 📝 <a href="https://console.cloud.google.com/bigquery?sq=762442762242:995288125d6a428888f3071bc95f92bd">Proyecto 6: Reporte consultas SQL</a>
+> <h4 align="left"> 📝 <a href="https://console.cloud.google.com/bigquery?sq=762442762242:995288125d6a428888f3071bc95f92bd">SQL Queries Report</a>
   
-<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1rgEoOcuStRxjynZpmNyMTev-qrtaRJHf?usp=sharing">Proyecto 6: Reporte Power Bi</a>
+> <h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1rgEoOcuStRxjynZpmNyMTev-qrtaRJHf?usp=sharing">Power Bi Report</a>
 
 
-## Solución
+## 💡 Solution
   
 <div align="center">
   
@@ -44,6 +46,6 @@ Predecir el desgaste de sus valiosos empleados
 </div>
   
 
-### 🏷️
+## 🏷️Tags
 
-`SQL` | `Power BI` | `Negocios` | `Visualización` 
+`SQL` | `Power BI` | `Business` | `Visualization` 
