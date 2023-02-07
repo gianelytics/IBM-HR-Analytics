@@ -30,9 +30,9 @@ Predecir el desgaste de sus valiosos empleados
 
     Análisis de desgaste y rendimiento de empleados de IBM HR Analytics
 
-<h4 align="left"> 📝 <a href="https://console.cloud.google.com/bigquery?sq=762442762242:995288125d6a428888f3071bc95f92bd">Reporte consultas SQL</a>
+> <h4 align="left"> 📝 <a href="https://console.cloud.google.com/bigquery?sq=762442762242:995288125d6a428888f3071bc95f92bd">Reporte consultas SQL</a>
   
-<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1rgEoOcuStRxjynZpmNyMTev-qrtaRJHf?usp=sharing">Reporte Power Bi</a>
+> <h4 align="left"> 👩‍💻 <a href="https://drive.google.com/drive/folders/1rgEoOcuStRxjynZpmNyMTev-qrtaRJHf?usp=sharing">Reporte Power Bi</a>
 
 
 ## 💡 Solución
